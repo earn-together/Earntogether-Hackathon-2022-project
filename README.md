@@ -1,36 +1,56 @@
-# Acala x PolkaWorld Dapp Hackathon 2022
+# EarnTogether Hackathon 2022
 
-## Application 🎯
+- Project Name: EarnTogether
+- Team Name: EarnTogether tEAM
+- Project online usage link: http://110.42.130.97:8081/#/
+- Payment Address: 
 
-1. [Fork](https://github.com/Acala-EVM-Dapps/Acala-PolkaWorld-Dapp-Hackathon-2022/fork) this repository.
-2. In the newly created fork, create a copy of the application template folder (`applications/application-template-project/`)in the `applications` folder. If you're using the GitHub web interface, you will need to create a new folder and copy the contents of the template folder inside the new folder. Make sure you do not modify the template files directly.
-3. Name the new folder after your project: project_name/.
-4. In your newly created project folder, upload your project full source code for review. (It is allowed to not upload the project code when submitting the application for the first time, and upload it multiple times in the future).
-5. In the `README.md` file of the newly created project folder, fill in the project information (First submission is allowed to fill in [TODO]). The more complete the information you provide, the more certain our attitude towards the project team will be. The template for providing information: [applications/application-template-project/README.md](https://github.com/Acala-EVM-Dapps/Acala-PolkaWorld-Dapp-Hackathon-2022/blob/main/applications/application-template-project/README.md)
-6. Once done, create a pull request. Pull requests should only have files under a new folder - the new project folder you created from the template. [application-demo](https://github.com/Acala-EVM-Dapps/Acala-PolkaWorld-Dapp-Hackathon-2022/pull/1/files) pull request.
+## Project Overview 📄
+
+### Overview
+
+Please provide the following:
+
+- If the name of your project is not descriptive, a tag line (one sentence summary).
+- A brief description of your project.
+- An indication of how your project relates to / integrates into Acala / Karura EVM+.
+- An indication of why your team is interested in creating this project.
+
+### Project Details
+
+- Detailed description of the core functiona of the project.
+- Project deployment step instructions.
+- If necessary, please provide relevant test usage documentation.
+
+### Ecosystem Fit
+
+Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
+
+- Where and how does your project fit into the ecosystem?
+- What need(s) does your project meet?
+- What makes your project unique?
 
 
-## Hacking Directions 🎏
+## Team 👥
 
-1. aUSD-foucus DApps, compatible to Acala EVM+, driving to grow the usage of aUSD，including but not limited to DEX, Money Markets, Derivatives, DAOs, Asset Management , payment and other applications, etc. 
-2. Infrastructure for parachains , wallet and basic development tools for aUSD ecosystem;
-3. DeFi, Gamefi, NFT, DAO and Other Applications, which are compatible to EVM+
-4. Any team with innovative idea is welcomed to build on Acala network.
+### Team members
 
-## Schedule 🗓
+- Name of team leader
+- Names of team members
 
-1. Github application registration: Deadline April 17
-2. Primary: April 18 - April 22
-3. Selected teams are invited to join the group: April 25
-4. EVM+ Workshop Q&A (1): April 26
-5. EVM+ Workshop Q&A (2): May 11
-6. Entry optimization and adjustment: April 26 - May 13
-7. Hackathon Online Demo + Judges Scoring: May 14
-8. Announcement of winners: May 15
+### Contact
 
-## Tutorials And Technical Discussions 🛰
+- Contact Name: Full name of the contact person in your team
+- Contact Email: Contact email (e.g. john@river.io)
+- Website:
 
-- [Acala Wiki](https://wiki.acala.network/)
-- [Acala EVM+ Wiki](https://evmdocs.acala.network/)
-- [Discord](https://discord.com/invite/6QHVY4X)
-- [Linktree](https://linktr.ee/acalanetwork)
+### Team's experience
+
+Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. 
+
+### Future Plans
+
+Please include here
+
+- how you intend to use, enhance, promote and support your project in the short term, and
+- the team's long-term plans and intentions in relation to it.
