@@ -12,7 +12,7 @@
 Please provide the following:
 
 - Decentralized DAO investment platform based on smart contract
-- An indication of how your project relates to / integrates into Acala / Karura EVM+.
+- `An indication of how your project relates to / integrates into Acala / Karura EVM+.`
 - In order to meet the market demand for multi-platform, multi-contract call, automatic income acquisition investment platform
 
 ### Project Details
@@ -23,7 +23,7 @@ Please provide the following:
 
 ### Ecosystem Fit
 
-Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
+`Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
 - What need(s) does your project meet?
@@ -52,4 +52,4 @@ Please describe the team's relevant experience. If your project involves develop
 Please include here
 
 - how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+- the team's long-term plans and intentions in relation to it.`
