@@ -3,7 +3,7 @@
 - Project Name: EarnTogether
 - Team Name: EarnTogether tEAM
 - Project online usage link: http://110.42.130.97:8081/#/
-- Payment Address: 
+- `Payment Address: `
 
 ## Project Overview 📄
 
