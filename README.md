@@ -11,15 +11,14 @@
 
 Please provide the following:
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
+- Decentralized DAO investment platform based on smart contract
 - An indication of how your project relates to / integrates into Acala / Karura EVM+.
-- An indication of why your team is interested in creating this project.
+- In order to meet the market demand for multi-platform, multi-contract call, automatic income acquisition investment platform
 
 ### Project Details
 
-- Detailed description of the core functiona of the project.
-- Project deployment step instructions.
+- Basket interface: Users can buy the fund; Account interface:  Users can check the fund and redeem them; Create interface:  Managers can create “Basket”; Manager interface：Managers can init  and edit the information; Basic module：basic multi-token trade ; Nav module：Single token trade; Stream module：The manager can receive basic trading fee; Wrap module：The manager can buy other token to invest; Trade module：The manager can operate the basket’ token to invest; Airdrop module：The manager can airdrop to improve users’ share (address  transfer or interest from AVVE load)
+- Dapp 0.1 will launch at 2022 August.
 - If necessary, please provide relevant test usage documentation.
 
 ### Ecosystem Fit
