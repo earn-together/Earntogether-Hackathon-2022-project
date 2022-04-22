@@ -23,33 +23,33 @@ Please provide the following:
 
 ### Ecosystem Fit
 
-`Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
+`Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:`
 
-- Where and how does your project fit into the ecosystem?
-- What need(s) does your project meet?
-- What makes your project unique?
+- `Where and how does your project fit into the ecosystem?`
+- `What need(s) does your project meet?`
+- `What makes your project unique?`
 
 
 ## Team 👥
 
-### Team members
+### `Team members`
 
-- Name of team leader
-- Names of team members
+- `Name of team leader`
+- `Names of team members`
 
 ### Contact
 
-- Contact Name: Full name of the contact person in your team
-- Contact Email: Contact email (e.g. john@river.io)
-- Website:
+- `Contact Name: Full name of the contact person in your team`
+- `Contact Email: Contact email (e.g. john@river.io)`
+- `Website:`
 
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. 
+`Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. `
 
 ### Future Plans
 
-Please include here
+`Please include here`
 
 - how you intend to use, enhance, promote and support your project in the short term, and
 - the team's long-term plans and intentions in relation to it.`
