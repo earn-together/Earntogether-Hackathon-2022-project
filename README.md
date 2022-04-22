@@ -51,5 +51,5 @@ Please provide the following:
 
 `Please include here`
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.`
+- `how you intend to use, enhance, promote and support your project in the short term, and`
+- `the team's long-term plans and intentions in relation to it.`
