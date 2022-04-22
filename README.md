@@ -19,7 +19,7 @@ Please provide the following:
 
 - Basket interface: Users can buy the fund; Account interface:  Users can check the fund and redeem them; Create interface:  Managers can create “Basket”; Manager interface：Managers can init  and edit the information; Basic module：basic multi-token trade ; Nav module：Single token trade; Stream module：The manager can receive basic trading fee; Wrap module：The manager can buy other token to invest; Trade module：The manager can operate the basket’ token to invest; Airdrop module：The manager can airdrop to improve users’ share (address  transfer or interest from AVVE load)
 - Dapp 0.1 will launch at 2022 August.
--  test usage documentation: https://docs.google.com/document/d/1_Shh7S_0-acnUKlJWunRs6KMKEw27G2qOwT4-pfw0xY/edit?usp=sharing
+-  Test usage documentation: https://docs.google.com/document/d/1_Shh7S_0-acnUKlJWunRs6KMKEw27G2qOwT4-pfw0xY/edit?usp=sharing
 
 ### Ecosystem Fit
 
